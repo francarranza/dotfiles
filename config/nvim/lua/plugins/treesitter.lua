@@ -13,6 +13,9 @@ return {
       "tsx",
       "terraform",
       "hcl",
+      "java",
+      "rust",
+      "ron",
     },
   },
 }
